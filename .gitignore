@@ -1,0 +1,13 @@
+.DS_Store
+*.log
+*.pdf
+*.rtf
+*.env
+.env.*
+private/
+tmp/
+cache/
+literature/
+sessions/
+__pycache__/
+*.pyc
